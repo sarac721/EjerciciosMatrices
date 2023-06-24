@@ -11,6 +11,7 @@ function matrizDiagonal(matriz){
     return true
 }
 
+
 let matriz = [
     [1,0,0],
     [0,2,0],
