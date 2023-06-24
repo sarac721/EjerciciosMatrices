@@ -13,6 +13,7 @@ function crearMatriz (nLongitud){
         }   
     }
    return matriz
+   
 
 }
 let matriz1 = crearMatriz(nLongitud)
