@@ -3,6 +3,7 @@ let matriz = [
     [4,5,6],
     [7,8,9]
 ]
+
 //Mostrar la matriz en pantalla
 console.log("Matriz")
 for(let i =0; i <matriz.length; i++){
